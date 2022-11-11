@@ -1,3 +1,6 @@
+-- database in second normal form
+-- all tables set up with only one record per field
+--used linking tables
 drop database if exists HotelSchema;
 
 create database HotelSchema;
